@@ -479,7 +479,6 @@ export default function Home() {
               { src: "/photos/scholarship.jpg", alt: "Jocelyn receiving the CSUF Mercury Insurance Scholarship" },
               { src: "/photos/smile.jpg", alt: "Jocelyn smiling — candid portrait" },
               { src: "/photos/disneyland.jpg", alt: "Jocelyn at Disneyland Star Wars ride" },
-              { src: "/photos/eagles.jpg", alt: "Jocelyn celebrating in Eagles jersey" },
             ].map((photo) => (
               <div
                 key={photo.src}
