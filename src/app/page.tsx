@@ -477,7 +477,7 @@ export default function Home() {
               <div
                 key={photo.src}
                 style={{
-                  aspectRatio: "4/3",
+                  aspectRatio: "4/5",
                   overflow: "hidden",
                   borderRadius: "2px",
                   border: "1px solid var(--border)",
