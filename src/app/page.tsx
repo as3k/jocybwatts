@@ -6,7 +6,7 @@ const resume = {
   name: "Jocelyn Boites",
   title: "Insurance & Compliance Analyst",
   headline:
-    "Turns messy processes into reliable systems — professional, upbeat, and results-driven.",
+    "Turns messy processes into reliable systems - professional, upbeat, and results-driven.",
   contact: {
     email: "jocelyn_boites@yahoo.com",
     phone: "(562) 506-7166",
@@ -16,7 +16,7 @@ const resume = {
   },
   availability: "Available May 2026",
   summary:
-    "Results-driven Insurance & Compliance Analyst with extensive experience in regulatory compliance, data analysis, insurance claims management, and negotiation — driving operational excellence across insurance and finance. Detail-oriented with a distinguished track record: committed to minimizing claims, mitigating risk, and fostering stakeholder trust while accelerating business growth.",
+    "Results-driven Insurance & Compliance Analyst with extensive experience in regulatory compliance, data analysis, insurance claims management, and negotiation - driving operational excellence across insurance and finance. Detail-oriented with a distinguished track record: committed to minimizing claims, mitigating risk, and fostering stakeholder trust while accelerating business growth.",
   seeking: [
     "Insurance operations",
     "Regulatory compliance & governance",
@@ -76,7 +76,7 @@ const resume = {
         "Managed key accounts of multiple equipment dealers to streamline commercial SaaS lending processes within a fast-paced FinTech environment.",
         "Oversaw software implementation processes: business risk assessment, application processing, proposal delivery, contract negotiation, and financial analysis/auditing.",
         "Liaised with lender business representatives and attorneys to negotiate contracts and special assignments.",
-        "Partnered with top-tier leadership — CEO, CFO, Head of Production, Development Engineers, and Sales.",
+        "Partnered with top-tier leadership - CEO, CFO, Head of Production, Development Engineers, and Sales.",
         "Conducted comprehensive audits of new accounts to ensure accuracy and completeness.",
         "Reduced contract cancellations by up to 45% through complex account and finance audits.",
         "Maintained a 98% incident-free record for data access controls.",
@@ -97,7 +97,7 @@ const resume = {
         "Drafted SARs in compliance with AML/BSA regulations.",
         "Consistently met or exceeded goals for reducing profit losses, fraud, and documentation errors by 25%.",
         "Reduced branch fraud incidents by up to 27% by identifying and resolving critical discrepancies.",
-        "Exceeded data security benchmarks — 100% error-free record during entire tenure.",
+        "Exceeded data security benchmarks - 100% error-free record during entire tenure.",
       ],
     },
     {
@@ -108,7 +108,7 @@ const resume = {
       end: "Oct 2018",
       highlights: [
         "Oversaw consumer auto title operations and cultivated relationships with third-party vendors, customers, attorneys, and DMVs.",
-        "Collaborated with internal teams — 15% reduction in claims disputes, 88% insurance policy compliance rate.",
+        "Collaborated with internal teams - 15% reduction in claims disputes, 88% insurance policy compliance rate.",
         "Processed and resolved high-volume insurance and title claims, exceeding performance targets by 20%.",
         "Decreased escalations by up to 35% through timely and professional client responses.",
         "Negotiated settlements and resolved complex claim disputes, achieving 95% claimant satisfaction.",
@@ -176,7 +176,7 @@ const resume = {
     {
       degree: "Bachelor of Arts in Business Management",
       institution: "California State University, Fullerton",
-      detail: "Units toward completion — expected May 2026",
+      detail: "Units toward completion - expected May 2026",
     },
     {
       degree: "Associate of Arts",
@@ -472,12 +472,12 @@ export default function Home() {
             Detail-oriented at work, warm and driven everywhere else. Here&apos;s a
             glimpse of who I am beyond the spreadsheets and audit reports.
           </p>
-          {/* Photo grid — swap src values with real images */}
+          {/* Photo grid - swap src values with real images */}
           <div className="animate-fade-up delay-200 grid grid-cols-2 md:grid-cols-3 gap-3" style={{ opacity: 0 }}>
             {[
-              { src: "/photos/headshot.jpg", alt: "Jocelyn outdoors — professional headshot" },
+              { src: "/photos/headshot.jpg", alt: "Jocelyn outdoors - professional headshot" },
               { src: "/photos/scholarship.jpg", alt: "Jocelyn receiving the CSUF Mercury Insurance Scholarship" },
-              { src: "/photos/smile.jpg", alt: "Jocelyn smiling — candid portrait" },
+              { src: "/photos/smile.jpg", alt: "Jocelyn smiling - candid portrait" },
               { src: "/photos/disneyland.jpg", alt: "Jocelyn at Disneyland Star Wars ride" },
             ].map((photo) => (
               <div
@@ -545,7 +545,7 @@ export default function Home() {
                 When Can I Start?
               </h3>
               <p style={{ fontSize: "0.9rem", lineHeight: 1.7, color: "var(--text-secondary)" }}>
-                Available from <strong>May 2026</strong> — completing my BA at CSUF and ready to bring fresh expertise to the right team.
+                Available from <strong>May 2026</strong> - completing my BA at CSUF and ready to bring fresh expertise to the right team.
               </p>
             </div>
 
@@ -593,7 +593,7 @@ export default function Home() {
               </h3>
               <p style={{ fontSize: "0.9rem", lineHeight: 1.7, color: "var(--text-secondary)" }}>
                 A single, scannable page helps hiring managers quickly see what I do, the results
-                I&apos;ve delivered, and how to reach me — reducing friction and accelerating outreach.
+                I&apos;ve delivered, and how to reach me - reducing friction and accelerating outreach.
                 No PDF attachments, no guesswork.
               </p>
             </div>
@@ -720,7 +720,7 @@ export default function Home() {
                           marginLeft: "8px",
                         }}
                       >
-                        — {job.location}
+                        - {job.location}
                       </span>
                     </p>
                   </div>
@@ -962,7 +962,7 @@ export default function Home() {
                       color: "var(--text-muted)",
                     }}
                   >
-                    — {lang.proficiency}
+                    - {lang.proficiency}
                   </span>
                 </div>
               ))}
@@ -1027,7 +1027,7 @@ export default function Home() {
                 marginBottom: "28px",
               }}
             >
-              Reach out for a quick 15–20 minute conversation — I&apos;ll bring
+              Reach out for a quick 15–20 minute conversation - I&apos;ll bring
               specific examples of audits, claims outcomes, and process
               improvements.
             </p>
