@@ -16,7 +16,7 @@ const resume = {
   },
   availability: "Available May 2026",
   summary:
-    "Results-driven Insurance & Compliance Analyst with extensive experience in regulatory compliance, data analysis, insurance claims management, and negotiation, driving operational excellence across insurance and finance. Detail-oriented with a distinguished track record: committed to minimizing claims, mitigating risk, and fostering stakeholder trust while accelerating business growth.",
+    "Results-driven compliance professional with extensive experience in regulatory compliance, data analysis, insurance claims management, and negotiation aimed at driving operational excellence across insurance and finance industries. Proven track record of reducing processing time by 30%, improving data integrity by 40%, and maintaining 98%+ accuracy under strict regulatory deadlines. Skilled in financial statement analysis, wire verification, audit execution, and proactive risk mitigation aligned with federal and state compliance frameworks.",
   seeking: [
     "Insurance operations",
     "Regulatory compliance & governance",
@@ -25,16 +25,20 @@ const resume = {
   ],
   accomplishments: [
     {
+      metric: "40%",
+      text: "improvement in enterprise data governance accuracy by co-leading dealership ownership database overhaul across 50+ multi-state portfolios.",
+    },
+    {
       metric: "30%",
-      text: "faster claims turnaround using industry-specific tools to streamline processing.",
+      text: "reduction in contract processing time by redesigning compliance workflows and implementing structured tracking systems.",
     },
     {
-      metric: "95%",
-      text: "claimant satisfaction achieved by negotiating settlements and resolving complex disputes.",
+      metric: "98%+",
+      text: "documentation accuracy maintained while managing multi-state regulatory compliance and contract lifecycle audits.",
     },
     {
-      metric: "Perfect",
-      text: "compliance and governance scores on all internal audits from 2016 to 2023.",
+      metric: "100%",
+      text: "on-time regulatory submission rate achieved under strict state-specific filing deadlines.",
     },
     {
       metric: "45%",
@@ -45,27 +49,31 @@ const resume = {
       text: "drop in branch fraud incidents by identifying critical discrepancies in financial procedures.",
     },
     {
-      metric: "98%",
-      text: "incident-free record for data access controls while training teams on privacy best practices.",
-    },
-    {
-      metric: "35%",
-      text: "fewer escalations through timely, professional client communication.",
-    },
-    {
-      metric: "20%",
-      text: "above performance targets by effectively communicating with policyholders.",
-    },
-    {
-      metric: "98%",
-      text: "accuracy rate in settlement determinations via strong analytical assessment of claims validity.",
+      metric: "95%",
+      text: "claimant satisfaction achieved by negotiating settlements and resolving complex disputes.",
     },
     {
       metric: "25%",
-      text: "increase in resolutions by demonstrating adaptability in negotiations.",
+      text: "increase in resolutions through adaptable, case-specific negotiation approaches.",
     },
   ],
   experience: [
+    {
+      title: "National Dealer Network Development Specialist",
+      company: "Hyundai Motor America",
+      location: "Fountain Valley, CA (Contract)",
+      start: "Nov 2024",
+      end: "Nov 2025",
+      highlights: [
+        "Managed regulatory and contractual oversight of 50+ dealerships across multiple states, ensuring compliance with Sales & Service Agreements and state-specific statutes.",
+        "Performed full contract lifecycle processing and documentation including amendments, renewals, ownership updates, and signage compliance, maintaining 98%+ accuracy.",
+        "Conducted financial due diligence reviews by analyzing dealer financial statements, records, and asset/revenue standings.",
+        "Monitored liquidity thresholds to identify potential financial risk exposure and escalated findings to legal and executives.",
+        "Co-led General Management database overhaul, improving ownership transparency and governance by 40%, strengthening operational legitimacy across dealership platforms.",
+        "Achieved 100% on-time completion rate under strict regulatory findings.",
+        "Supervised Junior Assistant Managers while performing high-volume operational documentation responsibilities in a resource-constrained environment.",
+      ],
+    },
     {
       title: "Finance & Insurance Transaction Coordinator",
       company: "Trnsact",
@@ -77,11 +85,11 @@ const resume = {
         "Oversaw software implementation processes: business risk assessment, application processing, proposal delivery, contract negotiation, and financial analysis/auditing.",
         "Liaised with lender business representatives and attorneys to negotiate contracts and special assignments.",
         "Partnered with top-tier leadership: CEO, CFO, Head of Production, Development Engineers, and Sales.",
-        "Conducted comprehensive audits of new accounts to ensure accuracy and completeness.",
+        "Conducted comprehensive audits of new accounts to ensure accuracy and completeness of business-related information.",
         "Reduced contract cancellations by up to 45% through complex account and finance audits.",
-        "Maintained a 98% incident-free record for data access controls.",
-        "Negotiated complex claims and entry-level redlining with legal department at 100% accuracy.",
+        "Negotiated complex claims and entry-level redlining with legal department, maintaining a 100% accuracy rate.",
         "Demonstrated adaptability in negotiations, resulting in a 25% increase in resolutions.",
+        "Developed and enforced strict access controls to protect sensitive customer data, maintaining 98% incident-free record.",
         "Trained team members on data privacy best practices.",
       ],
     },
@@ -96,8 +104,8 @@ const resume = {
         "Conducted monthly and quarterly audits of internal processes to ensure State/Federal regulatory adherence.",
         "Drafted SARs in compliance with AML/BSA regulations.",
         "Consistently met or exceeded goals for reducing profit losses, fraud, and documentation errors by 25%.",
-        "Reduced branch fraud incidents by up to 27% by identifying and resolving critical discrepancies.",
-        "Exceeded data security benchmarks, with a 100% error-free record during entire tenure.",
+        "Reduced branch fraud incidents by up to 27% by identifying and resolving critical discrepancies in financial procedures.",
+        "Exceeded data security benchmarks, achieving 100% error-free record during entire tenure.",
       ],
     },
     {
@@ -113,22 +121,8 @@ const resume = {
         "Decreased escalations by up to 35% through timely and professional client responses.",
         "Negotiated settlements and resolved complex claim disputes, achieving 95% claimant satisfaction.",
         "Developed a comprehensive compliance framework adhering to Federal and State regulations.",
-        "Streamlined claims processing, reducing turnaround times by 30%.",
+        "Streamlined claims processing using industry-specific tools, reducing turnaround times by 30%.",
         "Achieved 98% accuracy rate in determining settlements through strong analytical assessment.",
-      ],
-    },
-    {
-      title: "Personal Banker",
-      company: "Wells Fargo Bank NA",
-      location: "Fullerton, CA",
-      start: "Aug 2013",
-      end: "Jun 2016",
-      highlights: [
-        "Managed business and personal accounts to ensure accuracy and completeness of information.",
-        "Oversaw cash transaction processes including mortgages, liens, and general maintenance.",
-        "Facilitated reconstruction of internal quotas to streamline overall branch operations.",
-        "Outperformed peer bankers by 50% and achieved highest recovery of fake IDs district-wide in 2014.",
-        "Collaborated with IT, Legal, and Compliance departments on multiple cross-functional projects.",
       ],
     },
   ],
@@ -174,7 +168,7 @@ const resume = {
   ],
   education: [
     {
-      degree: "Bachelor of Arts in Business Management",
+      degree: "Bachelor of Arts in Business Management, Risk Management & Insurance",
       institution: "California State University, Fullerton",
       detail: "Units toward completion, expected May 2026",
     },
